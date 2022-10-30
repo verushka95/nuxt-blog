@@ -1,4 +1,4 @@
-# blog
+# Blog на Nuxt.JS
 
 ## Описание
 
